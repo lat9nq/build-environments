@@ -17,7 +17,6 @@ RUN useradd -m -u 1027 -s /bin/bash yuzu && mkdir -p /tmp/pkgs && \
     glslang \
     python-pip \
     python \
-    python2 \
     ccache \
     p7zip \
     cmake \

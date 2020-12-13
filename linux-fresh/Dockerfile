@@ -18,7 +18,6 @@ RUN useradd -m -u 1027 -s /bin/bash yuzu && \
     libzip-dev \
     libzstd-dev \
     zlib1g-dev \
-    python \
     python3-pip \
     qtbase5-dev \
     qtbase5-private-dev \
